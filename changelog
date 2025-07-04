@@ -1,6 +1,15 @@
-0.0.1 - The beginning
-  [+] GUI
-  [+] Freelook
-  [+] Auto Harp
-  [+] Nick Hider
-  [*] Crashes
+public-0.1.2:
+  [+] Aim Assist
+  [+] Custom Title
+  [*] Auto Wardrobe (Odin rings integration)
+  [*] misc bug fixes
+  [-] Auto Carnival (temporary)
+  ... and more
+
+pre-0.1:
+  [+] Auto Clicker
+  [+] Auto Wardrobe
+  [+] Insta Mid
+  [*] Auto Carnival
+  [-] Auto SS (flagged idk why WIP)
+  ... and more
